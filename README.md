@@ -30,7 +30,7 @@ Install the script
 
 
     mkdir ~/bin
-    git clone https://github.com/reinboldg/jabbersend.git jabbersend
+    git clone https://github.com/t1t4nium/jabbersend.git jabbersend
     cp jabbersend/jabbersend ~/bin/
     chmod 700 ~/bin/jabbersend
 
